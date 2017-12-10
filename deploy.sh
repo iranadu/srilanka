@@ -23,7 +23,7 @@ head=$(git log --format="%h" -n 1)
 
 # Switch to gh-pages + apply changes
 git checkout --quiet gh-pages
-cp -rf _site/* .
+cp -rf ../_site/* .
 git add -A
 
 # Check for changes
