@@ -1,18 +1,18 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Sri Lanka Backpacking
+email: dev@domain.com
+baseurl: "https://mxklb.github.io/srilanka" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Backpacking in Sri Lanka 2018 
 
 # Social icons
 facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+#linkedin: username
+github: mxklb
+#deviantart: username
+#codepen: username
 
 footer: © Taken theme
 
