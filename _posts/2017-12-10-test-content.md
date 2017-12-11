@@ -9,3 +9,5 @@ Jo. Bald geht's los.
 
 ## 10 Wochen bis zum Flug
 Es wird fein in Sri Lanka, nicht mehr lange ..
+
+![Tea Farm]({{ "/assets/srilanka.jpg" | absolute_url }})
