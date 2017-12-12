@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Test content"
-date:   2017-12-10 22:02:01 +0100
+date:   2017-12-10 22:02:01
 comments: true
-categories: jekyll
 ---
 Jo. Bald geht's los.
 
