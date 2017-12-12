@@ -23,6 +23,8 @@ head=$(git log --format="%h" -n 1)
 
 # Switch to gh-pages + apply changes
 git checkout --quiet gh-pages
+git ls-files -z | xargs -0 rm -f
+git ls-tree --name-only -d -r -z HEAD | sort -rz | xargs -0 rmdir
 cp -rf ../_site/* .
 git add -A
 
