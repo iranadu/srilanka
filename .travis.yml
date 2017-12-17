@@ -5,6 +5,7 @@ rvm:
 before_script:
   - ls -la
   - npm install
+  - npm install -g gulp
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
