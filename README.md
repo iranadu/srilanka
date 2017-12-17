@@ -2,10 +2,10 @@
 
 To build and preview locally:
 
-    jekyll serve
+    gulp
 
 To build the blog (destination: *_site*):
 
-    jekyll build
+    gulp jekyll-build
 
 Check my result here: [mxklb.github.io/srilanka](https://mxklb.github.io/srilanka/)
