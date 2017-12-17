@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Sri Lanka Backpacking. This is a personal blog. Max and Henriette
   travelling in Sri Lanka februar 24th till march 16th.
 permalink: ':title/'
-baseurl: "https://mxklb.github.io/srilanka" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/srilanka" # the subpath of your site, e.g. /blog
+url: "https://mxklb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
+author: Xam Blak # add your name
 author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: My name is Xam Blak. I’m a hobby backpacker array-find-index-1 blogger.
 
 # Contact links
 email: # Add your Email address
@@ -19,7 +19,7 @@ phone: # Add your Phone number
 website: www.xamblak.de # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: mxklb # Add your Github handle
-twitter: '@mxklb_' # Add your Twitter handle
+twitter: '@mxklb' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
