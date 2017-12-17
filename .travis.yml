@@ -4,6 +4,7 @@ rvm:
 
 before_script:
   - ls -la
+  - npm install -g
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
