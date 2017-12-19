@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sri Lanka Backpacking. This is a personal blog. Max and Henriette
   travelling in Sri Lanka februar 24th till march 16th.
 permalink: ':title/'
-baseurl: "https://mxklb.github.io/srilanka" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
