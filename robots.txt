@@ -1,1 +1,1 @@
-Sitemap: /https://mxklb.github.io/srilanka/sitemap.xml
+Sitemap: /sitemap.xml
