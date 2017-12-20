@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  I meet the sunset
-date:   2017-12-20 13:32:20 +0100
+date:   2017-12-19 23:32:20 +0100
 description: Bla bla ..
 img: post-2.jpg
-#tags:
-author: Xam
+author: Xam Blak
 ---
 Jekyll also offers powerful support for code snippets:
 
