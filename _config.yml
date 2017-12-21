@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Xam Blak # add your name
 author-pic: avatar.jpg
-about-author: Henriette & Max : Backpacking Sri Lanka 24. Feb - 18. Mar 2018
+about-author: Henriette & Max Backpacking Sri Lanka 24. Feb - 18. Mar 2018
 
 # Contact links
 email: mxklb@protonmail.com # Add your Email address
@@ -30,8 +30,8 @@ mailchimp: # Add your MailChimp form identifier.
 # Disqus
 discus_identifier: # Add your discus identifier
 
-# Tracker
-analytics: # Google Analytics
+# Tracker -> Google Analytics
+analytics: UA-111453754-1
 
 # Paginate
 paginate: 6
