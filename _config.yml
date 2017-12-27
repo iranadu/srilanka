@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sri Lanka Backpacking. This is a personal blog. Max and Henriette
   travelling in Sri Lanka februar 24th till march 16th.
 permalink: ':title/'
-baseurl: "https://mxklb.github.io/srilanka" # the subpath of your site, e.g. /blog
+baseurl: "https://mxklb.github.io/srilanka/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
@@ -14,13 +14,13 @@ author-pic: avatar.jpg
 about-author: Henriette & Max in Sri Lanka<br/>25. Feb - 17. Mar 2018
 
 # Contact links
-email: mxklb@protonmail.com # Add your Email address
+email: # mxklb@protonmail.com # Add your Email address
 phone: # Add your Phone number
-website: www.xamblak.de # Add your website, do not add http://
+website: xamblak.de/blox.html # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: mxklb # Add your Github handle
+github: # Add your Github handle
 twitter: # Add your Twitter handle
-facebook: # Add your Facebook handle
+facebook: henriette.lewek # Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
