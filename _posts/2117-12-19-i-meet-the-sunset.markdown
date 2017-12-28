@@ -6,7 +6,7 @@ description: Bla bla ..
 img: post-2.jpg
 author: Xam Blak
 ---
-Jekyll also offers powerful support for code snippets:
+Jekyll also offers powerful support for code snippets test test:
 
 {% highlight ruby %}
 def print_hi(name)
