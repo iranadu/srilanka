@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Skyline FFM
+date:   2018-19-01 20:32:20 +0100
+description: Bla bla ..
+img: skydeck.jpg
+author: Xam Blak
+---
+That's how it is yo, that's how it is :)
