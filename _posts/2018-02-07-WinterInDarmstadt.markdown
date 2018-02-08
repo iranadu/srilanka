@@ -6,11 +6,12 @@ description: Prinzenberg in Darmstadt
 img: Prinzenberg.jpg
 author: Xam Blak
 ---
-On Sunday we had a little snow. I walked through the woods.
+On sunday we had snow in Darmstadt. So I did a trip through the woods.
+
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/Prinzenberg-weg.jpg)
 
-Finally I arrived at Prinzenberg behind Ludwig's Höhe
+Finally I arrived at Prinzenberg, behind Ludwig's Höhe
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/Prinzenberg-view.jpg)
 
-In two weeks we will have sun, cya there ..
+In three weeks we will have warmer weather :) cya then..
