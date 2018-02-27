@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Negombo
+date:  2018-02-27 17:32:20 +0100
+description: Negombo Beach
+img: Negombo.jpg
+author: Xam Blak
+---
+Gestern sind wir in Colombo gelandet, allerdings ohne meinen Rucksack. D.h. der wurde in Mumbai einkassiert, da ich eine Powerbank drin hatte. Diese haben sie mir jetzt abgenommen und ich habe den Rucksack glücklicher Weise heute wieder bekommen..
+
+Hier ein Bild vom Strand vor unserer Unterkunft
+![Yosh Ginsu]({{site.baseurl}}/assets/img/Negombo-beach.jpg)
+
+Morgen gehts dann weiter nach Kandy in die Berge ..
