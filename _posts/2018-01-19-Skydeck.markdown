@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Skyline FFM
+title:  Skyline FRA
 date:   2018-01-19 20:32:20 +0100
 description: Bla bla ..
 img: skydeck.jpg
 author: Xam Blak
 ---
-That's how it is yo, that's how it is :)
+This is Frankfurt am Main (FRA). This is where we take off ..
