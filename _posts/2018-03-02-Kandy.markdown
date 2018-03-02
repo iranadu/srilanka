@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Kandy
+date: 2018-03-02 17:32:20 +0800
+description: Kandy
+img: Kandy.jpg
+author: Henriette
+---
+Nach unserer ungeplant turbulenten Ankunft sind wir am Mittwoch morgen nach Kandy aufgebrochen. Kandy ist die drittgrößte Stadt des Landes und liegt in mitten bergigem Hochland. Nach unserer Ankunft in dem hübschen Guesthouse Expeditor etwas oberhalb der Stadt gings auf Erkundungstour in die wuselige bunte und zugegebenermaßen mächtig versmoggte Innenstadt. Max hat das beste Curry der Stadt gegessen (diese Information stammt von einem sehr vertrauenswürdigen Passanten) und ich hatte das erste Kottu meines Lebens.
+
+Leider sind wir danach auf eine Kaffeefahrtveranstaltung für Weißbrote reingefallen, nach viel buntem Tanz und Trommelperformance ging der Abend gemütlich zuende. Hier noch ein Bild vom See in Kandy
+
+![Kandy Lake]({{site.baseurl}}/assets/img/Kandy-lake.jpg)
+
+Am Tag drauf sind wir von der Stadt geflüchtet und haben in der nähe der Kuckel Peaks eine geführte Wanderung unternommen. Dabei haben wir sehr viel über den Buddhismus und die Natur und Vegetation in Kandy gelernt. Hier nur ein kleiner Eindruck in die atemberaubende Landschaft die uns dort begegnet ist, ein Reisfeld.
+
+![Rice Field]({{site.baseurl}}/assets/img/Kandy-ricefield.jpg)
+
