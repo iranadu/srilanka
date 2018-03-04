@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Ella
+date: 2018-03-04 17:32:20 +0800
+description: Ella
+img: Ella.jpg
+author: Xam Blak
+---
+Seit zwei Tagen sind wir in Ella. Die Zug-Reise von Kandy hierher ist sehr zu empfehlen - auch ohne Sitzplatz. Die Strecke windet sich durchs Hochland, durch Tunnel und über Brücken, quer durch den Urwald, vorbei an Teeplantagen.
+
+![Train Ride]({{site.baseurl}}/assets/img/Ella-train.jpg)
+
+Ella ist ein kleines touristisches Backpacker-Dorf in der Uva Province, es liegt etwa 1000 Meter über dem Meeresspiegel in den Bergen. Es gibt viele Bars und gute Restaurants, allerdings mit entsprechend touristischen Preisen. Wir haben sogar Bekanntschaft mit Bernburgern (da wo Henriette her kommt) gemacht :-) Gestern sind wir auf den little Adams Peak geklettert.
+
+![Little Adams Peak]({{site.baseurl}}/assets/img/Ella-peak.jpg)
+
+Morgen früh reisen wir dann weiter Richtung Süden zum Strand mit Zwischenstop im Uda Walawe National Park..
+
