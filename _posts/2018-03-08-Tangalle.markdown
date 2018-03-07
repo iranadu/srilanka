@@ -6,13 +6,19 @@ description: Tangalle
 img: Tangalle.jpg
 author: Xam Blak
 ---
-Gestern haben wir für 2500 Rupees frischen Hummer zum Abendessen verspeist. Der war super lecker doch nicht ganz einfach zu zerlegen ;) Wobei die Flasche Weißwein dazu mit 4000 Rupees noch teurer war, naja Urlaub, man gönnt sich ja sonst nichts ..
+Gestern haben wir für jeweils 2500 Rupees frischen Hummer zum Abendessen verspeist. Der war super lecker doch nicht ganz einfach zu zerlegen ;) Wobei die Flasche Weißwein dazu mit 4000 Rupees doch noch teurer war, naja Urlaub, man gönnt sich ja sonst nichts ..
 
-![Safari]({{site.baseurl}}/assets/img/Tangalle-hummer.jpg)
+![Hummer]({{site.baseurl}}/assets/img/Tangalle-hummer.jpg)
 
-Heute lungerten wir den ganzen Tag am Strand herum, tipi topi :)
+Heute lungerten wir den ganzen Vormittag am Strand herum, ein quasi lazy Day, tipi topi :)
 
 ![Beach]({{site.baseurl}}/assets/img/Tangalle-meer.jpg)
+
+Anschließend haben wir uns noch den Hafen angeschaut.
+
+![Hafen]({{site.baseurl}}/assets/img/Tangalle-hafen.jpg)
+
+Morgen geht's weiter nach Galle zu den Take it easy Huts, wo wir wirder die beiden Bernburger treffen, cya later..
 
 
 
