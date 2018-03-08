@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Uda Walawe
+title:  Tangalle
 date: 2018-03-08 09:22:20 +0800
 description: Tangalle
 img: Tangalle.jpg
@@ -18,7 +18,7 @@ Anschließend haben wir uns noch den Hafen angeschaut.
 
 ![Hafen]({{site.baseurl}}/assets/img/Tangalle-hafen.jpg)
 
-Morgen geht's weiter nach Galle zu den Take it easy Huts, wo wir wirder die beiden Bernburger treffen, cya later..
+Morgen geht's weiter nach Galle zu den Take it easy Huts, wo wir wieder die beiden Bernburger treffen, cya later..
 
 
 
