@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Galle
+date: 2018-03-09 17:22:20 +0800
+description: Galle
+img: Galle.jpg
+author: Xam Blak
+---
+Seit gestern sind wir in den Take It Easy Huts ca 7 km außerhalb von Galle am Pitiwella Beach. Von den aktuellen Ausschreitungen in Kandy bekommen wir hier zum Glück definitiv nichts mit, macht euch also bitte keine Sorgen! Uns geht es hier unglaublich gut :)
+
+![Huts]({{site.baseurl}}/assets/img/Galle-huts.jpg)
+
+Heute Mittag haben wir uns die Altstadt von Galle, das Galle Fort angeschaut. Im Vergleich zu den anderen Städten die wir bisher gesehen haben ist es dort sehr entspannt und architektonisch kolonial geprägt
+
+![Fort]({{site.baseurl}}/assets/img/Galle-fort.jpg)
+
+Und viele alten Autos und sonstige Gefährte werden als Werbefläche gekonnt inszeniert :)
+
+![Motorrad]({{site.baseurl}}/assets/img/Galle-motorrad.jpg)
+
+
+
