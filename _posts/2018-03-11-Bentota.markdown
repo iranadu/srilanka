@@ -8,7 +8,7 @@ author: Xam Blak
 ---
 Aktuell sind wir in Induruwa, einem Nachbarort von Bentota. Das Wetter ist die letzten Tage etwas verhangen aber trotzdem angenehm warm und fast ohne Regen. 
 
-![Palmen]({{site.baseurl}}/assets/img/Bentota-palms.jpg)
+![Beach]({{site.baseurl}}/assets/img/Bentota-beach.jpg)
 
 Gestern waren wir richtig fein in Ahungalla Essen und anschließend auf der Heaven on Earth Party tanzen. Hier noch ein Bild vom Strand in Ahungalla.
 
